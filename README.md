@@ -1,4 +1,4 @@
-# Tutorial material for 2021 GO-BGC Science Workshop (Python version)
+# Tutorial for 2021 GO-BGC Science Workshop (Python version)
 
 To get started:
 
