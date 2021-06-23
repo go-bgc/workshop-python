@@ -9,3 +9,5 @@ To get started:
 5. You now have a copy of the Colab notebook saved in your Google Drive in a folder called "Colab Notebooks." You are ready to go!
 
 If you would just like to view the tutorial notebook, a partially interactive rendered view is available here: http://nbviewer.ipython.org/github/go-bgc/workshop-python/blob/4d17e0b7cd2fae16a25d05bde2dc6ed92c2a46a8/GO_BGC_Workshop_Python_tutorial.ipynb.
+
+If for some reason you do not have access to a Google account, you can download the .ipynb file linked above and run it from a local Jupyter installation. When running this notebook locally, the first code block that authenticates with Google Drive should be deleted and file paths in the following code block should be changed to match your local file structure.
