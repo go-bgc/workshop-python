@@ -2,7 +2,7 @@
 
 To get started:
 
-1. Navigate to the file `GO_BGC_Workshop_Python_tutorial.ipynb` in this repository.
+1. Navigate to the file [`GO_BGC_Workshop_Python_tutorial.ipynb`](https://github.com/go-bgc/workshop-python/blob/main/GO_BGC_Workshop_Python_tutorial.ipynb) in this repository.
 2. Click the "Open in Colab" button at the top of the file.
 3. If needed, sign into your Google account.
 4. In Google Colab, near the top menu bar, click on the button that says "Copy to Drive."
