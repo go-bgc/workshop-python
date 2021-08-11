@@ -17,5 +17,7 @@ If you would just like to view the tutorial notebook, a partially-interactive re
 If for some reason you do not have access to a Google account, you can download the .ipynb file linked above and run it from a local Jupyter installation. When running this notebook locally, the first code block that authenticates with Google Drive should be deleted and file paths in the following code block should be changed to match your local file structure.
 
 **Tutorial Recordings:**
-BGC Argo data overview: https://youtu.be/sJHioPp7fDo
+<br>
+BGC Argo data overview: https://youtu.be/sJHioPp7fDo 
+<br>
 Python tutorial session: https://youtu.be/myoIsmb6TIQ
