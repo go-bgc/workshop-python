@@ -15,3 +15,7 @@
 If you would just like to view the tutorial notebook, a partially-interactive rendered view is available here: https://nbviewer.jupyter.org/github/go-bgc/workshop-python/blob/main/GO_BGC_Workshop_Python_tutorial.ipynb.
 
 If for some reason you do not have access to a Google account, you can download the .ipynb file linked above and run it from a local Jupyter installation. When running this notebook locally, the first code block that authenticates with Google Drive should be deleted and file paths in the following code block should be changed to match your local file structure.
+
+**Tutorial Recordings:**
+BGC Argo data overview: https://youtu.be/sJHioPp7fDo
+Python tutorial session: https://youtu.be/myoIsmb6TIQ
