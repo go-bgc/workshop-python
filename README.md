@@ -18,6 +18,6 @@ If for some reason you do not have access to a Google account, you can download 
 
 **Tutorial Recordings:**
 <br>
-BGC Argo data overview: https://youtu.be/sJHioPp7fDo 
+BGC Argo data overview: https://youtu.be/--3PubEoMT0 
 <br>
-Python tutorial session: https://youtu.be/myoIsmb6TIQ
+Python tutorial session: https://youtu.be/5Gz-SsTuLdw
